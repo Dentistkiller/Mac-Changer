@@ -1,0 +1,6 @@
+how to use 
+cd pycharmprojects
+
+cd mac_changer
+cd venv 
+python ./mac_changer -i eth0 --mac 00:11:11:11:11:11
